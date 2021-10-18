@@ -1,0 +1,9 @@
+.about {
+  text-align: center;
+}
+
+.inner_about {
+  display: flex;
+  justify-content: center;
+}
+

@@ -1,0 +1,13 @@
+.navbar {
+  display: inline-block;
+  background-color: aquamarine;
+  width: 100vw;
+}
+nav > ul {
+    display: flex;
+    justify-content: center;
+} 
+nav > ul > li {
+  display: inline-block;
+  margin: 0 50px;
+}

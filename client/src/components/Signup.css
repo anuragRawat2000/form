@@ -1,0 +1,15 @@
+.signup{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    margin-bottom: 30px;
+    width: 100%;
+    height: 10%;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
